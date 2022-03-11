@@ -7,7 +7,8 @@
 
 :books: :brain:   Atualmente estou desenvolvendo conhecimentos acerca de Data Science e Machine Learning  :technologist:
 
-:2nd_place_medal: :man_teacher:    Foi em 2020, 2º Lugar no XX Encontro de Iniciação a Docência na Universidade de Fortaleza (UNIFOR)
+:2nd_place_medal: :man_teacher:    Foi em 2020, 2º Lugar no XX Encontro de Iniciação a Docência na Universidade de Fortaleza (UNIFOR) 
+                                   com um trabalho sobre Eletricidade e Magnetismo.
 
 <div align="center">
   <a href="https://github.com/Marciovazjr">
