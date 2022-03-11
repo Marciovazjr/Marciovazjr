@@ -1,7 +1,7 @@
 ## Olá! :wave: Eu sou Marcio Vaz
 
-:man_student: :building_construction:   Engenheiro Civil que estuda as teorias das estruturas através do método dos elementos finitos e 
-                                        as aplicações das modelagens do Building Information Modeling (BIM)
+:man_student: :building_construction:   Engenheiro Civil que estuda a Teoria das Estruturas através do Método dos Elementos Finitos e 
+                                        aplicações das modelagens do Building Information Modeling (BIM)
                                         
 :dizzy: :triangular_ruler:  Estudante de Física na Universidade Federal do Ceará (UFC)
 
