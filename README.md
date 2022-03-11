@@ -1,4 +1,13 @@
-## Olá! Eu sou Marcio Vaz
+## Olá! :wave: Eu sou Marcio Vaz
+
+:man_student: :building_construction:   Engenheiro Civil que estuda as teorias das estruturas através do método dos elementos finitos e 
+                                        as aplicações das modelagens do Building Information Modeling (BIM)
+                                        
+:dizzy: :triangular_ruler:  Estudante de Física na Universidade Federal do Ceará (UFC)
+
+:books: :brain: :technologist:     Atualmente estou desenvolvendo conhecimentos acerca de Data Science e Machine Learning 
+
+:2nd_place_medal: :man_teacher:    Foi em 2020, 2º Lugar no XX Encontro de Iniciação a Docência na Universidade de Fortaleza (UNIFOR)
 
 <div align="center">
   <a href="https://github.com/Marciovazjr">
