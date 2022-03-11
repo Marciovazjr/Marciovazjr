@@ -5,7 +5,7 @@
                                         
 :dizzy: :triangular_ruler:  Estudante de Física na Universidade Federal do Ceará (UFC)
 
-:books: :brain: :technologist:     Atualmente estou desenvolvendo conhecimentos acerca de Data Science e Machine Learning 
+:books: :brain:   Atualmente estou desenvolvendo conhecimentos acerca de Data Science e Machine Learning  :technologist:
 
 :2nd_place_medal: :man_teacher:    Foi em 2020, 2º Lugar no XX Encontro de Iniciação a Docência na Universidade de Fortaleza (UNIFOR)
 
